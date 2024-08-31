@@ -1,15 +1,4 @@
 { 
-  "Your Delegate Address e.g. 0x5c5Eb5C41720D555F81eD554e901edD0a6aF258C": {
-    "name": "Your Delegate name e.g. "LuukDAO" ",
-    "address": "Delegate Address e.g. 0x5c5Eb5C41720D555F81eD554e901edD0a6aF258C",
-    "logoUri": "/logos/delegatees/"NameOfYourUploadedImage.jpg",
-    "date": "2024-08-08",
-    "links": {
-      "website": "Link to your Forum Account, e.g., https://forum.celo.org/u/luukdao/summary",
-      "twitter": "Link to your Twitter, e.g., https://x.com/LuukDAO"
-    },
-    "interests": ["Interest #1", "Interest #2", "Interest #3", "Interest #4"],
-    "description": "Short description of your motivation and vision for being a Celo Delegate"
   },
   "0x3c3Eb5C41720D555F81eD554e901edD0a6aF228C": {
     "name": "Stake Capital",
@@ -49,7 +38,7 @@
     "name": "LuukDAO",
     "address": "0x31cd90C2788f3e390d2Bb72871f5aD3F1a4B22a1",
     "logoUri": "/logos/delegatees/LuukDAO.jpg",
-    "date": "2024-08-12",
+    "date": "2024-08-11",
     "links": {
       "website": "https://forum.celo.org/t/steward-thread-luukdao/7460",
       "twitter": "https://twitter.com/LuukDAO"
